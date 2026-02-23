@@ -1,0 +1,36 @@
+# Personal Portfolio Website
+
+A clean and responsive personal portfolio website built using HTML and CSS.  
+This project showcases profile information, skills, and contact details in a structured layout.
+
+## 📌 Features
+
+- Semantic HTML structure
+- Clean and minimal UI
+- Responsive layout design
+- Organized sections (About, Skills, Projects, Contact)
+- Styled header and footer
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
+
+## 🚀 How to Run
+
+1. Download or clone the repository.
+2. Open the HTML file in any modern web browser.
+
+No additional setup required.
+
+## 🎯 Purpose
+
+This project was created to practice:
+- Website structuring
+- Layout design
+- Styling fundamentals
+- Responsive design basics
+
+## 📄 License
+
+For educational and practice purposes.
