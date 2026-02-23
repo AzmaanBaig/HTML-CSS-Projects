@@ -1,0 +1,37 @@
+# Book Nest – Online Book Store UI
+
+A simple bookstore-themed website layout with featured books and interactive styling.
+
+## 📌 Features
+
+- Navigation bar with search field
+- Banner image section
+- Featured books grid
+- Hover effects on cards
+- Button styling
+- Responsive flex layout
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- Flexbox
+- Basic hover animations
+
+## 🚀 How to Run
+
+1. Open the HTML file in a web browser.
+2. Hover over book cards to see interactive effects.
+
+## 🎯 Purpose
+
+This project was created to practice:
+- Layout structuring
+- Card design
+- Hover transitions
+- UI alignment
+- Basic e-commerce style interface
+
+## 📄 License
+
+For educational and practice purposes.
