@@ -1,0 +1,37 @@
+# Animated Landing Page
+
+A modern landing page inspired by SaaS-style UI designs.  
+Includes animation effects using JavaScript and Canvas API.
+
+## 📌 Features
+
+- Responsive navigation bar
+- Hero section with call-to-action buttons
+- Canvas-based illustrations
+- Floating animations and particle effects
+- Modern UI structure
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- Canvas API
+
+## 🚀 How to Run
+
+1. Open the HTML file in a modern web browser.
+2. Resize the browser window to see responsive behavior.
+3. Observe animated canvas illustrations.
+
+## 🎯 Purpose
+
+This project was created to practice:
+- Responsive layouts
+- UI structuring
+- JavaScript animations
+- Canvas drawing and rendering
+
+## 📄 License
+
+For educational and practice purposes.
