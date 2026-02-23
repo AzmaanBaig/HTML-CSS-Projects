@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WaveRiders Surf Academy</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        body {
+            background-color: #f4f4f4;
+            color: #222;
+            line-height: 1.6;
+        }
+        /* -------- HEADER -------- */
+        
+        header {
+            background-color: pink;
+            color: #fff;
+            padding: 15px 30px;
+        }
+        
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 20px;
+        }
+        
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-size: 0.95rem;
+        }
+        /* -------- HERO -------- */
+        
+        .hero {
+            background-image: url("surf2.jpeg");
+            background-size: cover;
+            background-position: center;
+            height: 70vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: white;
+        }
+        
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+        }
+        
+        .hero p {
+            font-size: 1.2rem;
+        }
+        /* -------- MAIN -------- */
+        
+        main {
+            max-width: 1100px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        
+        section {
+            margin-bottom: 60px;
+        }
+        
+        section h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 2rem;
+        }
+        /* -------- COURSES -------- */
+        
+        .courses {
+            display: flex;
+            gap: 20px;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 6px;
+            overflow: hidden;
+            width: 33%;
+            text-align: center;
+        }
+        
+        .card img {
+            width: 100%;
+            height: 220px;
+            object-fit: cover;
+        }
+        
+        .card h3 {
+            padding: 15px 0;
+        }
+        /* -------- FOOTER -------- */
+        
+        footer {
+            background-color: #111;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header>
+        <nav>
+            <h2>WaveRiders</h2>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Courses</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- HERO -->
+    <section class="hero">
+        <div>
+            <h1>Ride the Waves</h1>
+            <p>Learn surfing with certified instructors</p>
+        </div>
+    </section>
+
+    <!-- MAIN CONTENT -->
+    <main>
+
+        <!-- ABOUT -->
+        <section>
+            <h2>About Us</h2>
+            <p style="text-align:center;">
+                WaveRiders Surf Academy helps beginners and pros master the ocean. Safety, fun, and skill — all in one wave!
+            </p>
+        </section>
+
+        <!-- COURSES -->
+        <section>
+            <h2>Our Courses</h2>
+
+            <div class="courses">
+                <div class="card">
+                    <img src="surf2.jpeg" alt="Beginner Surfing">
+                    <h3>Beginner Surfing</h3>
+                </div>
+
+                <div class="card">
+                    <img src="surf3.jpeg" alt="Intermediate Training">
+                    <h3>Intermediate Training</h3>
+                </div>
+
+                <div class="card">
+                    <img src="surf.jpeg" alt="Pro Wave Mastery">
+                    <h3>Pro Wave Mastery</h3>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>© 2026 WaveRiders Surf Academy</p>
+    </footer>
+
+</body>
+
+</html>
