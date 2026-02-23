@@ -1,0 +1,38 @@
+# DarkShop – Dark Themed E-Commerce UI
+
+A modern dark-themed product showcase layout designed using HTML and CSS.
+
+## 📌 Features
+
+- Dark UI design
+- Responsive grid layout
+- Product cards with hover effects
+- Sale and New badges
+- Styled search bar
+- Rating display
+- Call-to-action buttons
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- CSS Grid
+- Hover transitions
+
+## 🚀 How to Run
+
+1. Open the HTML file in a web browser.
+2. Hover over product cards to view animation effects.
+
+## 🎯 Purpose
+
+This project was created to practice:
+- Dark theme UI design
+- CSS Grid layouts
+- Card components
+- Hover effects and transitions
+- Modern e-commerce styling
+
+## 📄 License
+
+For educational and practice purposes.
