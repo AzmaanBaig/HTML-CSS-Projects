@@ -1,0 +1,36 @@
+# Pink Canvas Animation (2026 Theme)
+
+An animated canvas-based project featuring floating hearts, bubbles, gradients, and animated text effects.
+
+## 📌 Features
+
+- Canvas API rendering
+- Animated floating hearts
+- Bubble motion effects
+- Gradient background
+- Text glow and movement animation
+- Continuous animation loop using requestAnimationFrame()
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Canvas API)
+
+## 🚀 How to Run
+
+1. Open the HTML file in a browser.
+2. Observe animated hearts, bubbles, and glowing text.
+
+## 🎯 Purpose
+
+This project was created to practice:
+- Canvas drawing
+- Object animation
+- Gradient rendering
+- Loop-based animation logic
+- Creative visual design
+
+## 📄 License
+
+For educational and practice purposes.
