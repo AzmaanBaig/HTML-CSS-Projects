@@ -1,4 +1,4 @@
-# HTML & CSS Practice Projects
+# HTML & CSS Mini Projects
 
 This repository contains a collection of small **HTML and CSS projects** that I created during **college sessions**.
 These exercises were done to practice the basics of **web page structure, styling, and layout design**.
